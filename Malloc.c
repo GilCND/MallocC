@@ -3,7 +3,7 @@
 PROGRAM INFO:
 Program: Malloc.c
 Date: 24/02/2020
-Autor: Felipe Gil
+Autor: Felipe SG
 Program Details:
 Create an application to allocate enough memory to store 10 integer values (NOT AN ARRAY). 
 Prompt the user for a sequence of 10 numbers and store them in the memory block you allocated. 
@@ -14,7 +14,7 @@ Note: Use pointers throughout.
 Change-log
 -------------------------------------------------------------------------------------
 |       Date        |   Programmer   |                   Changelog                   | 
-    Feb-24-2020         Felipe Gil                   First Version  1.0         
+    Feb-24-2020         Felipe SG                First Version  1.0         
 */
 
 #include <stdio.h>
